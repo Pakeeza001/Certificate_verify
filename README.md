@@ -2,7 +2,7 @@
 
 ![Checks Success](https://badgen.net/github/checks/node-formidable/node-formidable) [![MIT](https://badgen.net/badge/license/MIT/blue)](https://github.com/priyankarpal/ProjectsHut/blob/main/LICENSE)
 
-![](https://raw.githubusercontent.com/vishnuhari17/Certificate_verify/main/app/certverify.jpeg?token=GHSAT0AAAAAACPXPPR5VVKCH3VDFBBVJHXGZSDWAXA)
+
 
 ## 🤓 What is it about ?
 
@@ -52,13 +52,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 | [![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)                             | Vercel is a cloud platform for static sites and serverless functions.                                |
 
 
-## 🤝 Contributors
-
-To all the contributors and supporters of this project, we want to express our sincerest thanks. Your time, effort, and expertise have been invaluable in making this project a success. Whether you contributed code, documentation, testing, or simply offered feedback and suggestions, your contributions are deeply appreciated.
-
-<a href="https://github.com/vishnuhari17/Certificate_verify/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=vishnuhari17/Certificate_verify" />
-</a>
 
 
 ## 🛡️ License
