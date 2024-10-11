@@ -84,7 +84,7 @@ function NavBar() {
                         </li>
                         <li>
                             <Link
-                                href="https://github.com/vishnuhari17/Certificate_verify.git"
+                                href="https://github.com/Pakeeza001/Certificate_verify.git"
                                 target="_blank"
                                 rel="noreferrer"
                                 className="flex items-center text-white"
